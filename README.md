@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everyone! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">,</h1>
+<h1 align="center">Hi Everyone! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 
 <h2 align="center">I am Alessandro Ardenghi</h2>
 <h3 align="center">a Computer Vision and Cryptography Enthusiast!</h3>
@@ -31,7 +31,7 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/alessandro-ardenghi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alessandroardenghi" /></a>
+<a href="https://www.linkedin.com/in/alessandro-ardenghi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alessandroardenghi" /></a>
 <a href="https://www.instagram.com/alessandroardenghi" target="blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" alt="alessandroardenghi" /></a>
 <a href="mailto:alessandro.ardenghi.aa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alessandroardenghi" /></a></p>
  <p align="center">	
