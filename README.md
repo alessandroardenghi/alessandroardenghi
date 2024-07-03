@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everyone! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi Everyone! </h1>
 
 <h2 align="center">I am Alessandro Ardenghi</h2>
 <h3 align="center">a Computer Vision and Cryptography Enthusiast!</h3>
