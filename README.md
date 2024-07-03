@@ -35,6 +35,6 @@
 <a href="https://www.instagram.com/alessandroardenghi" target="blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" alt="alessandroardenghi" /></a>
 <a href="mailto:alessandro.ardenghi.aa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alessandroardenghi" /></a></p>
  <p align="center">	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandroardenghi&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandroardenghi&show_icons=true&theme=tokyonight&size_weight=0.1&count_weight=0.9&locale=en" />
 </p>
 
