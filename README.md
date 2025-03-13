@@ -7,7 +7,7 @@
 - 🏙️ I am based in Milan, Italy
 - 📖 I am pursuing a Master's Degree in Artificial Intelligence at Bocconi University
 - 🔭 Currently, I am working on several Computer Vision Projects, mainly based on Object Detection and Instance Segmentation.
-- 🌱 I am currently focusing on learning more about hardware specifics in order to optimize the deployment of my AI models.
+- 🌱 I am currently focusing on learning more about Video Object Segmentation and Weakly-Supervised Instance Segmentation.
 - 🔒 I love Cryptography and its applications to AI.
 - 📫 Reach me at: alessandro.ardenghi@studbocconi.it
 
